@@ -1,0 +1,3 @@
+{
+    "shadow"        : true      // true: Allows re-define variables later in code e.g. `var x=1; x=2;`
+}
